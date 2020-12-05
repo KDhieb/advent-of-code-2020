@@ -1,7 +1,5 @@
 
 class Toboggan:
-    RIGHT = 3
-    DOWN = 1
     treeCount = 0
     inRange = True
     mapArray = []
